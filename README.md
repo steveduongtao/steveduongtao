@@ -62,7 +62,7 @@
 ## 📊 Github Stats
 
   <p align="center">
-    <a href="https://github.com/CaoKhaHieu/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=steveduongtao&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/steveduongtao/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=steveduongtao&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=steveduongtao&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
